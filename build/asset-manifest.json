@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/patkav2/static/css/main.5504cc0a.css",
+    "main.js": "/portfolio/patkav2/static/js/main.25fa5594.js",
+    "static/css/678.09f2f838.chunk.css": "/portfolio/patkav2/static/css/678.09f2f838.chunk.css",
+    "static/js/678.5b22d553.chunk.js": "/portfolio/patkav2/static/js/678.5b22d553.chunk.js",
+    "static/css/364.ec2b29d7.chunk.css": "/portfolio/patkav2/static/css/364.ec2b29d7.chunk.css",
+    "static/js/364.318c821c.chunk.js": "/portfolio/patkav2/static/js/364.318c821c.chunk.js",
+    "static/js/787.553622c5.chunk.js": "/portfolio/patkav2/static/js/787.553622c5.chunk.js",
+    "static/media/image1.png": "/portfolio/patkav2/static/media/image1.45b8bb24998046ea6524.png",
+    "static/media/image11.png": "/portfolio/patkav2/static/media/image11.9af1640b56a79f56222c.png",
+    "static/media/image4.png": "/portfolio/patkav2/static/media/image4.3f256d375f676e403222.png",
+    "static/media/image8.png": "/portfolio/patkav2/static/media/image8.dd8b1762d4e147d1ff9a.png",
+    "static/media/image13.png": "/portfolio/patkav2/static/media/image13.536531ecdb295497807b.png",
+    "static/media/image5.png": "/portfolio/patkav2/static/media/image5.cc01ffde075ab514b64d.png",
+    "static/media/image10.png": "/portfolio/patkav2/static/media/image10.a598157dad6880d086da.png",
+    "static/media/image12.png": "/portfolio/patkav2/static/media/image12.a95cec7a96a901d5f865.png",
+    "static/media/image2.png": "/portfolio/patkav2/static/media/image2.7f5f78115b24df9f6bd9.png",
+    "static/media/image6.png": "/portfolio/patkav2/static/media/image6.9bc02ba09e4ceb031316.png",
+    "static/media/image9.png": "/portfolio/patkav2/static/media/image9.451aff81eaab5d1de9a2.png",
+    "static/media/image3.jpg": "/portfolio/patkav2/static/media/image3.34ba218d4e25d8f6a89a.jpg",
+    "static/media/image7.png": "/portfolio/patkav2/static/media/image7.647d005b30b8b69d6d05.png",
+    "static/media/image14.png": "/portfolio/patkav2/static/media/image14.6aa3c9749ac62cfb9128.png",
+    "index.html": "/portfolio/patkav2/index.html",
+    "main.5504cc0a.css.map": "/portfolio/patkav2/static/css/main.5504cc0a.css.map",
+    "main.25fa5594.js.map": "/portfolio/patkav2/static/js/main.25fa5594.js.map",
+    "678.09f2f838.chunk.css.map": "/portfolio/patkav2/static/css/678.09f2f838.chunk.css.map",
+    "678.5b22d553.chunk.js.map": "/portfolio/patkav2/static/js/678.5b22d553.chunk.js.map",
+    "364.ec2b29d7.chunk.css.map": "/portfolio/patkav2/static/css/364.ec2b29d7.chunk.css.map",
+    "364.318c821c.chunk.js.map": "/portfolio/patkav2/static/js/364.318c821c.chunk.js.map",
+    "787.553622c5.chunk.js.map": "/portfolio/patkav2/static/js/787.553622c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5504cc0a.css",
+    "static/js/main.25fa5594.js"
+  ]
+}
